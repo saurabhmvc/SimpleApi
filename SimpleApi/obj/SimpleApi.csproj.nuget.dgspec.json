@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Azure\\SimpleApi\\SimpleApi.csproj": {}
+    "C:\\Learning\\Azure\\SimpleApi\\SimpleApi.csproj": {}
   },
   "projects": {
-    "C:\\Azure\\SimpleApi\\SimpleApi.csproj": {
+    "C:\\Learning\\Azure\\SimpleApi\\SimpleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Azure\\SimpleApi\\SimpleApi.csproj",
+        "projectUniqueName": "C:\\Learning\\Azure\\SimpleApi\\SimpleApi.csproj",
         "projectName": "SimpleApi",
-        "projectPath": "C:\\Azure\\SimpleApi\\SimpleApi.csproj",
+        "projectPath": "C:\\Learning\\Azure\\SimpleApi\\SimpleApi.csproj",
         "packagesPath": "C:\\Users\\Saurabh Tripathi\\.nuget\\packages\\",
-        "outputPath": "C:\\Azure\\SimpleApi\\obj\\",
+        "outputPath": "C:\\Learning\\Azure\\SimpleApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

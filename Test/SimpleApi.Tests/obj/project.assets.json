@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Azure\\Test\\SimpleApi.tests\\SimpleApi.Tests.csproj",
+      "projectUniqueName": "C:\\Learning\\Azure\\Test\\SimpleApi.tests\\SimpleApi.Tests.csproj",
       "projectName": "SimpleApi.Tests",
-      "projectPath": "C:\\Azure\\Test\\SimpleApi.tests\\SimpleApi.Tests.csproj",
+      "projectPath": "C:\\Learning\\Azure\\Test\\SimpleApi.tests\\SimpleApi.Tests.csproj",
       "packagesPath": "C:\\Users\\Saurabh Tripathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Azure\\Test\\SimpleApi.tests\\obj\\",
+      "outputPath": "C:\\Learning\\Azure\\Test\\SimpleApi.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -6149,8 +6149,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Azure\\SimpleApi\\SimpleApi.csproj": {
-              "projectPath": "C:\\Azure\\SimpleApi\\SimpleApi.csproj"
+            "C:\\Learning\\Azure\\SimpleApi\\SimpleApi.csproj": {
+              "projectPath": "C:\\Learning\\Azure\\SimpleApi\\SimpleApi.csproj"
             }
           }
         }
