@@ -12,7 +12,7 @@ namespace SimpleApi.Tests
         public void Test1()
         {
             var temp = objValuesController.Get(1);
-            Assert.Equal("Saurabh", temp);
+            Assert.Equal("Saurabh Agarwal", temp);
         }
     }
 }
